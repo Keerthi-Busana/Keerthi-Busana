@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hello World! 👋 I'm Keerthi</h1>
-<h3 align="center">A recent grad of MSc in Artificial Intelligence and Robotics</h3>
+<h3 align="center">Data Analysis Virtual Intern at Accenture | MSc in Artificial Intelligence and Robotics graduate </h3>
 
 ![codelikeagirl](https://user-images.githubusercontent.com/114207511/191925970-412900dd-1805-4aa4-9ed5-ff7835c72fdc.gif)
 
