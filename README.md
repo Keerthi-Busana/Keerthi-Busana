@@ -1,5 +1,6 @@
+<a href="![Green Gaming Channel YouTube Channel Art](https://user-images.githubusercontent.com/114207511/191952660-3ea0239f-d182-476e-acb1-1c26c80e415c.png)"/></a>
 
-
+![Blue Modern Illustrative Gaming Influencer YouTube Channel Art](https://user-images.githubusercontent.com/114207511/191953903-58e70c95-0ba0-4ea9-82fc-5b84af375a10.png)
 
 <h1 align="center">Hello World! 👋 I'm Keerthi</h1>
 <h3 align="center">Data Analysis Virtual Intern at Accenture | MSc in Artificial Intelligence and Robotics graduate </h3>
