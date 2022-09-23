@@ -18,8 +18,6 @@
 - ⚡ Fun fact **I wanted to be an astronaut when I was a kid**
 
 
-![codelikeagirl](https://user-images.githubusercontent.com/114207511/191925970-412900dd-1805-4aa4-9ed5-ff7835c72fdc.gif)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
