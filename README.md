@@ -1,9 +1,10 @@
 
 
-<h1 align="center">Hi 👋, I'm Keerthi</h1>
-<h3 align="center">Recent grad of Artificial Intelligence and Robotics</h3>
 
+<h1 align="center">Hello World! 👋 I'm Keerthi</h1>
+<h3 align="center">A recent grad of MSc in Artificial Intelligence and Robotics</h3>
 
+![codelikeagirl](https://user-images.githubusercontent.com/114207511/191925970-412900dd-1805-4aa4-9ed5-ff7835c72fdc.gif)
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -15,6 +16,7 @@
 - 📫 How to reach me **keerthibusana@gmail.com**
 
 - ⚡ Fun fact **I wanted to be an astronaut when I was a kid**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
