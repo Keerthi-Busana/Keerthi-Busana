@@ -3,7 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm Keerthi</h1>
 <h3 align="center">Recent grad of Artificial Intelligence and Robotics</h3>
-<img align="right" alt="Coding" width="400" src="https://arieljakubowski.medium.com/i-passed-every-coding-challenge-at-flatiron-school-my-first-try-heres-how-23302a1bfe46">
+![codelikeagirl](https://user-images.githubusercontent.com/114207511/191917878-229b4603-62b1-4b84-a4d1-f5c7c7eb1978.gif)
+
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
