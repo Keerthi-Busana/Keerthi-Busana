@@ -1,5 +1,6 @@
-![Green Gaming Channel YouTube Channel Art (1)](https://user-images.githubusercontent.com/114207511/191973576-277adfe4-f920-4fcc-8284-ebdd17951363.png)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keerthi-Busana&show_icons=true&theme=gruvbox)
 
 <h1 align="center">Hello World! 👋 I'm Keerthi</h1>
 <h3 align="center">Data Analysis Virtual Intern at Accenture | MSc in Artificial Intelligence and Robotics graduate </h3>
