@@ -18,6 +18,7 @@
 - ⚡ Fun fact **I wanted to be an astronaut when I was a kid**
 
 
+![new-game-ahagon-umiko-programming](https://user-images.githubusercontent.com/114207511/191972009-3524dd16-b076-4135-a11a-4af597d4eee3.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
