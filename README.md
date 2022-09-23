@@ -1,9 +1,8 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Keerthi</h1>
 <h3 align="center">Recent grad of Artificial Intelligence and Robotics</h3>
-![codelikeagirl](https://user-images.githubusercontent.com/114207511/191917878-229b4603-62b1-4b84-a4d1-f5c7c7eb1978.gif)
+
 
 
 
