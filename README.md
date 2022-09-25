@@ -1,11 +1,12 @@
+<h1 align="center">Hello World! 👋 I'm Keerthi</h1>
+<h3 align="center">Data Analysis Virtual Intern at Accenture | MSc in Artificial Intelligence and Robotics graduate </h3>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keerthi-Busana&show_icons=true&theme=gruvbox)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthi-Busana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1 align="center">Hello World! 👋 I'm Keerthi</h1>
-<h3 align="center">Data Analysis Virtual Intern at Accenture | MSc in Artificial Intelligence and Robotics graduate </h3>
+
 
 
 
